@@ -19,7 +19,7 @@ npm install
 npm start
 ```
 완료 후 화면
-[그림 1]
+![그림1](https://user-images.githubusercontent.com/26676087/102683522-2b1d0280-4215-11eb-9bb4-87d3874ab9bc.PNG)
 
 ### 2. vue-cli 설치
 ```
@@ -30,9 +30,9 @@ npm install
 npm run dev
 ```
 vue init webpack frontend 설정
-[그림 2]
+![그림2](https://user-images.githubusercontent.com/26676087/102683526-3a03b500-4215-11eb-8117-3da5c0f05d4e.PNG)
 완료 후 화면
-[그림 3]
+![그림3](https://user-images.githubusercontent.com/26676087/102683534-45ef7700-4215-11eb-9616-fb582fc8de23.PNG)
 
 ### 3. json data 추가
 backend/data/movies.json를 생성하여 다음을 작성.
